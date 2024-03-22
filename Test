@@ -16,3 +16,5 @@ https://b.link/Test/bd-sri.m3u8
 https://bdixtv247.techpriyo.com/api/chd/files.php/gtvbd.m3u8
 #EXTINF:-1 group-title="Cricket live" tvg-logo="https://i.postimg.cc/1XsJth2W/download-15.png",Ipl 2024
 https://mhdsports.com/crichd/stream.php?id=star1in&e=.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1XsJth2W/download-15.png",Ten Sports
+https://mhdsports.com/crichd/stream.php?id=tenspk&e=.m3u8
